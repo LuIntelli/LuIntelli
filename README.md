@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LuIntelli
+- 👋 Hi, I’m @Licodes
 - 👀 I’m interested in JavaScript Programming Language
 
 <!---
