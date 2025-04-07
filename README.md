@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Licodes
+- 👋 Hi, I’m Ifezulumba Emmanunel Uchenna ( LuI )
 - 👀 I’m interested in JavaScript Programming Language
 
 <!---
